@@ -1,9 +1,10 @@
 {
   "name": "yunbu-ui",
   "version": "1.0.0",
-  "main": "index.ts",
-  "scripts": {
-    "build":"vite build"
+  "main": "lib/index.js",
+  "module":"es/index.js",
+    "scripts": {
+      "build": "vite build & esno build/buildLess"
   },
   "files": [
     "es",
