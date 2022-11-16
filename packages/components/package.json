@@ -14,7 +14,7 @@
     "yunbu-ui",
     "vue3组件库"
   ],
-  "author": "guyeyunbu",
+  "author": "yunbu-ui",
   "license": "MIT",
   "description": "",
   "typings": "lib/index.d.ts",
